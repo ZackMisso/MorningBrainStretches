@@ -10,6 +10,6 @@ Problem::~Problem() {
 	delete data;
 }
 
-void Problem::tryProblem() {
+bool Problem::tryProblem() {
 	// to be implemented
 }
